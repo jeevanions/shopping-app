@@ -1,0 +1,4 @@
+{
+    "user1": {"password": "userpass", "session_id": null, "cart": [], "is_admin": false},
+    "admin1": {"password": "adminpass", "session_id": null,"cart": [], "is_admin": true}
+}

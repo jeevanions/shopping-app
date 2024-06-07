@@ -1,0 +1,5 @@
+## Run
+
+```
+python shopping.py
+```

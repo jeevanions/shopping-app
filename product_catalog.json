@@ -1,0 +1,14 @@
+{
+    "Boots": [
+        {"product_id": "p1", "name": "Winter Boots", "stock": 10, "price": 100}
+    ],
+    "Coats": [
+        {"product_id": "p2", "name": "Leather Coat", "stock": 10, "price": 150}
+    ],
+    "Jackets": [
+        {"product_id": "p3", "name": "Denim Jacket", "stock": 10, "price": 80}
+    ],
+    "Caps": [
+        {"product_id": "p4", "name": "Baseball Cap", "stock": 10, "price": 20}
+    ]
+}
